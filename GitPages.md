@@ -3,10 +3,10 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>(Jabir [Mahamoud]* Gutale)</title>
+<h1>Jabir Mahamoud Gutale</h1>
 </head>
 <body>
 <h1>Min IS-114 portfolio</h1>
-<p>Kort beskrivelse av portfolio (oppgaveløsninger, dagbok, notater osv.) ...
+<p>Første test av å bruke Github pages på å lage en nettside for meg selv.
 </body>
 </html>
