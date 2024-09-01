@@ -5,7 +5,9 @@
 <h1>Jabir Mahamoud Gutale</h1>
 </head>
 <body>
-<h1>Min IS-114 portfolio</h1>
-<p>Første test av å bruke Github pages på å lage en nettside for meg selv.
+<h1>Portfolio for første semester av IT og Informasjonssystem</h1>
+<article>
+  1. Nettside ved bruk av Github Pages
+</article>
 </body>
 </html>
