@@ -5,9 +5,11 @@
 <h1>Jabir Mahamoud Gutale</h1>
 </head>
 <body>
-<h1>Portfolio for første semester av IT og Informasjonssystem</h1>
+<h2>Portfolio for første semester av IT og Informasjonssystem</h2>
 <article>
-  1. Nettside ved bruk av Github Pages
+  <section>
+    Github Pages <aside>Ved bruk av Github Pages prøver jeg å lage en nettside med bruk av HTML</aside>
+  </section>
 </article>
 </body>
 </html>
