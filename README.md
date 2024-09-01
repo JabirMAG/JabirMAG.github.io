@@ -8,7 +8,10 @@
 <h2>Portfolio for første semester av IT og Informasjonssystem</h2>
 <article>
   <section>
-    Github Pages <aside>Ved bruk av Github Pages prøver jeg å lage en nettside med bruk av HTML</aside>
+    <p>Github Pages</p> 
+  <aside>
+    <p> Ved bruk av Github Pages prøver jeg å lage en nettside med bruk av HTML </p>
+  </aside>
   </section>
 </article>
 </body>
