@@ -6,12 +6,14 @@
 </head>
 <body>
   <h2>IT Portfolio</h2>
-  <b>**Denne nettsiden vil inneholde mine prosjekter**</b>
+  <b>Denne nettsiden vil inneholde mine prosjekter</b>
 
 
   <article>
     <h4> Github Pages - IT Portfolio på nettside </h4>
-    <p>*Første prosjektet jeg har startet med er et sted å putte inn portfoliet mitt. HTML har blitt brukt til strukturen, og CSS vil eventuelt bli brukt til å gjøre det pent*</p>
+    + <p>Første Prosjekt er å lage en nettside for min portfolio. Frontend prosjekt</p>
+        - <p>HTML for Struktur<p>
+        - <p>CSS for Utseende<p>
   </article>
 </body>
 </html>
