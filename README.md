@@ -11,9 +11,9 @@
 
   <article>
     <h4> Github Pages - IT Portfolio på nettside </h4>
-    + <p>Første Prosjekt er å lage en nettside for min portfolio. Frontend prosjekt</p>
-        - <p>HTML for Struktur<p>
-        - <p>CSS for Utseende<p>
+    <p>    + Første Prosjekt er å lage en nettside for min portfolio. Frontend prosjekt</p>
+              -HTML for Struktur
+              -CSS for Utseende
   </article>
 </body>
 </html>
